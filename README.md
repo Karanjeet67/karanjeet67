@@ -24,3 +24,4 @@ exploring new technologies in the world of software development.
 </p>
 <p align="left" >
     <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=karanjeet67&show_icons=true&locale=en&layout=compact&theme=radical" alt="karanjeet67" /></p>
+/
