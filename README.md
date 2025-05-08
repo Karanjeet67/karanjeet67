@@ -1,5 +1,5 @@
 ## Hi there! 👋
-
+ 
 I'm *Karanjeet, a passionate developer based in **New Delhi, India*. I love building innovative solutions and
 exploring new technologies in the world of software development.
 
