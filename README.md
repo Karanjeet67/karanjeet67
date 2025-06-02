@@ -7,7 +7,7 @@ exploring new technologies in the world of software development.
     <img src="https://github-profile-trophy.vercel.app/?username=karanjeet67&theme=radical" alt="karanjeet67" />
 </p>
 
-
+#j
 <h3 align="center">A passionate AI/ML developer from India</h3>
 
 <h3>Languages :</h3>
